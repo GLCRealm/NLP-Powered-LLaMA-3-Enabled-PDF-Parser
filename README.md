@@ -1,6 +1,27 @@
 # NLP Powered LLaMA-3 Enabled PDF Parser
 
-A cutting-edge tool that extracts, processes, and analyzes text from PDFs, leveraging advanced NLP and LLaMA-3 AI for seamless question-answering and contextual understanding.
+The **NLP Powered LLaMA-3 Enabled PDF Parser** is an advanced tool designed to revolutionize the way you interact with PDF documents. Combining state-of-the-art Natural Language Processing (NLP) techniques and the powerful LLaMA-3 AI model, this parser seamlessly extracts, processes, and analyzes text from PDF files—whether they are text-based or image-based.
+
+The tool not only extracts content with high precision but also provides robust question-answering capabilities. It intelligently identifies relevant information from large documents, offering concise and context-aware responses. Whether for research, business, or academic use, this parser transforms static PDF data into actionable insights.
+
+## Key Features
+- **Dual Mode Text Extraction**: Supports both text-based and image-based PDFs for versatile data handling.  
+- **Advanced NLP Integration**: Uses preprocessing and tokenization to enhance text understanding.  
+- **LLaMA-3 AI Integration**: Enables natural language querying with precise, context-aware answers.  
+- **Chunking and Optimization**: Efficiently handles large documents by splitting and processing manageable chunks.  
+- **User-Friendly Interface**: Simplifies PDF file selection and interaction via a straightforward GUI.
+
+This tool is perfect for anyone looking to harness the power of AI to turn static PDFs into a dynamic and interactive knowledge source.
+
+---
+
+## Use Cases
+- Quickly extract and analyze information from lengthy PDF reports.
+- Ask questions about a document to retrieve specific answers or summaries.
+- Turn static PDF documents into interactive, dynamic knowledge resources.
+- Streamline research, business analysis, or academic studies with automated data parsing.
+
+---
 
 ## Features
 
