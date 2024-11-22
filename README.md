@@ -1,7 +1,6 @@
+# NLP Powered LLaMA-3 Enabled PDF Parser
 
-# PDF Question Assistant
-
-PDF Question Assistant is a Python application with a GUI that allows users to upload a PDF, ask questions about its content, and receive answers powered by the LLaMA-3.2 natural language processing model.
+A cutting-edge tool that extracts, processes, and analyzes text from PDFs, leveraging advanced NLP and LLaMA-3 AI for seamless question-answering and contextual understanding.
 
 ## Features
 
